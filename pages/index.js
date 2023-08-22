@@ -15,9 +15,9 @@ export default function Home() {
           Read the <Link href="/posts/first-post">first post</Link>
         </h1>
 
-        <p className={styles.description}>
+        {/* <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
-        </p>
+        </p> */}
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
